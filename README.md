@@ -1,0 +1,1 @@
+Based on the [Firebase Angular JS tutorial](https://www.firebase.com/tutorial/#tutorial/angular/0).
